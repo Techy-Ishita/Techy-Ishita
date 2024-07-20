@@ -1,5 +1,5 @@
 ![logo](https://github.com/Techy-Ishita/Techy-Ishita/blob/main/hi2.png)
-<h1 align="center">Hi 👋, I'm Ishita Singh</h1>
+
 <h3 align="center">Innovative Full-Stack Developer (MERN) & Data Visualization Specialist </h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
